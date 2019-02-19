@@ -1,0 +1,6 @@
+C:\Users\ACER\source\repos\WindowsFormsApp1\Domain\bin\Debug\Domain.dll
+C:\Users\ACER\source\repos\WindowsFormsApp1\Domain\bin\Debug\Domain.pdb
+C:\Users\ACER\source\repos\WindowsFormsApp1\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\WindowsFormsApp1\Domain\obj\Debug\Domain.dll
+C:\Users\ACER\source\repos\WindowsFormsApp1\Domain\obj\Debug\Domain.pdb
+C:\Users\ACER\source\repos\WindowsFormsApp1\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\WindowsFormsApp1\Session\obj\Debug\Session.csprojResolveAssemblyReference.cache
+C:\Users\ACER\source\repos\WindowsFormsApp1\Session\obj\Debug\Session.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\WindowsFormsApp1\Session\bin\Debug\Session.dll
+C:\Users\ACER\source\repos\WindowsFormsApp1\Session\bin\Debug\Session.pdb
+C:\Users\ACER\source\repos\WindowsFormsApp1\Session\bin\Debug\Domain.dll
+C:\Users\ACER\source\repos\WindowsFormsApp1\Session\bin\Debug\Domain.pdb
+C:\Users\ACER\source\repos\WindowsFormsApp1\Session\obj\Debug\Session.csproj.CopyComplete
+C:\Users\ACER\source\repos\WindowsFormsApp1\Session\obj\Debug\Session.dll
+C:\Users\ACER\source\repos\WindowsFormsApp1\Session\obj\Debug\Session.pdb
